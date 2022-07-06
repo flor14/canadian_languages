@@ -4,6 +4,4 @@ For this project, we are committed to create a friendly and respectful place for
 
 
 We have good conduct
-
-hhh
 ...
