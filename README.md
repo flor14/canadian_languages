@@ -1,3 +1,1 @@
-# Data Science Project: Canadian languages
-
-Authors: Trevor Campbell, Melissa Lee & Tiffany Timbers
+Installing software on your own computer
